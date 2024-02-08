@@ -1,3 +1,4 @@
+/* rule font face */
 @font-face {
     font-family: 'Roboto';
     font-style: normal;
@@ -12,12 +13,12 @@
     src: url('fonts/Roboto-LightItalic.ttf') format('truetype');
 }
 
+/* STYLE GENERAL */
 *{
     font-family: 'Roboto', sans-serif;
     margin:0;
     padding:0;
 }
-
 
 /* HEADER */
 header,
